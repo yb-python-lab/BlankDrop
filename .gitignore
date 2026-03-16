@@ -1,0 +1,19 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build files
+build/
+dist/
+
+# Executables
+*.exe
+
+# Archives
+*.zip
+
+# Large documents
+*.pdf
